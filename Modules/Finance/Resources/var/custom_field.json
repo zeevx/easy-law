@@ -1,0 +1,10 @@
+{
+    "form_name" : [
+        "vendor",
+        "bank_account",
+        "income",
+        "expense",
+        "income_invoice",
+        "expense_invoice"
+    ]
+}

@@ -1,0 +1,20 @@
+{
+    "EmailtoCL": {
+        "item_id" : "3930202",
+        "migration": [
+
+        ],
+        "names": [
+
+        ],
+        "versions": [
+            "1.0.1"
+        ],
+        "url": [
+            "https://spondonit.com/contact"
+        ],
+        "notes": [
+            "This Module will allow you to send Email to lawyers and Courts. Thanks for using."
+        ]
+    }
+}

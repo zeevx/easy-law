@@ -1,0 +1,13 @@
+{
+    "name": "ClientLogin",
+    "alias": "clientlogin",
+    "description": "",
+    "keywords": [],
+    "priority": 0,
+    "providers": [
+        "Modules\\ClientLogin\\Providers\\ClientLoginServiceProvider"
+    ],
+    "aliases": {},
+    "files": [],
+    "requires": []
+}

@@ -1,0 +1,13 @@
+{
+    "name": "EmailtoCL",
+    "alias": "emailtocl",
+    "description": "",
+    "keywords": [],
+    "priority": 0,
+    "providers": [
+        "Modules\\EmailtoCL\\Providers\\EmailtoCLServiceProvider"
+    ],
+    "aliases": {},
+    "files": [],
+    "requires": []
+}

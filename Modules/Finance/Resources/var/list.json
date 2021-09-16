@@ -1,0 +1,11 @@
+{
+    "payment_method" : [
+        "cash",
+        "bank",
+        "cheque"
+    ],
+    "discount_type" : [
+        "flat",
+        "percentage"
+    ]
+}

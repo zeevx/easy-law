@@ -1,0 +1,34 @@
+{
+    "Finance": {
+        "item_id" : "31004954",
+        "migration": [
+            "2021_06_10_105909_create_vendors_table.php",
+            "2021_06_10_133147_create_services_table.php",
+            "2021_06_12_050750_create_bank_accounts_table.php",
+            "2021_06_12_090109_create_taxes_table.php",
+            "2021_06_12_100149_create_invoices_table.php",
+            "2021_06_12_100200_create_invoice_items_table.php",
+            "2021_06_12_100220_create_transactions_table.php",
+            "2021_06_17_074826_insert_finance_settings_to_configs_table.php",
+            "2021_06_17_092254_finance_moduel_permissions.php"
+        ],
+        "names": [
+            "vendors",
+            "services",
+            "bank_accounts",
+            "create_taxes",
+            "invoices",
+            "invoice_items",
+            "transactions"
+        ],
+        "versions": [
+            "1.0.0"
+        ],
+        "url": [
+            "https://spondonit.com/contact"
+        ],
+        "notes": [
+            "This is Finance module for Infix Advocate. Thanks for using."
+        ]
+    }
+}

@@ -1,0 +1,27 @@
+<?php
+
+return array(
+    'logged_in' => 'Logged in, Enjoy Your App.',
+    'password_verified' => 'Your Password verified Successfully.',
+    'suspend' => 'You are not a active user, Please Contact with admin.',
+    'logged_out' => 'Logged out, Thank you for being with us.',
+    'failed' => 'These credentials do not match our records.',
+    'password' => 'The provided password is incorrect.',
+    'throttle' => 'Too many login attempts. Please try again in :seconds seconds.',
+    'Welcome back, Please login' => 'Welcome back, Please login',
+    'to your account' => 'to your account',
+    'Welcome To Login' => 'Welcome To Login',
+    'Remember me' => 'Remember me',
+    'Forgot Your Password?' => 'Forgot Your Password?',
+    'Logging in' => 'Logging in',
+    'Enter email address' => 'Enter email address',
+    'No problem. Just let us know your email address and we will email you a password reset link that will allow you to choose a new one.' => 'No problem. Just let us know your email address and we will email you a password reset link that will allow you to choose a new one.',
+    'Back to login' => 'Back to login',
+    'Login' => 'Login',
+    'Password' => 'Password',
+    'Resetting Password' => 'Resetting Password',
+    'Reset Password' => 'Reset Password',
+    'Confirm Password' => 'Confirm Password',
+    'Reset your password' => 'Reset your password',
+    'Sending Instructions' => 'Sending Instructions',
+);

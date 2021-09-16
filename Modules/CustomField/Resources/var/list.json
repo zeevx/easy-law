@@ -1,0 +1,56 @@
+{
+    "form_name" : [
+        "contact",
+        "client",
+        "case",
+        "hearing_date",
+        "putup_date",
+        "lobbying_date",
+        "judgement_date",
+        "re_open_case",
+        "case_close",
+        "opposite_lawyer",
+        "court",
+        "appointment",
+        "task",
+        "staff"
+    ],
+    "field_type" : [
+        "text",
+        "textarea",
+        "date",
+        "number",
+        "checkbox",
+        "radio",
+        "file",
+        "url",
+        "email",
+        "dropdown",
+        "mask"
+    ],
+    "field_width" : [
+        "col-12",
+        "col-6",
+        "col-3",
+        "col-4"
+    ],
+    "field_type_integer" : [
+        "number"
+    ],
+    "field_type_date" : [
+        "date"
+    ],
+    "field_type_text" : [
+        "textarea",
+        "file"
+    ],
+    "field_type_string" : [
+        "text",
+        "checkbox",
+        "radio",
+        "url",
+        "email",
+        "dropdown"
+    ]
+
+}

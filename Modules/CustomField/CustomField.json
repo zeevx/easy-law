@@ -1,0 +1,22 @@
+{
+    "CustomField": {
+        "item_id" : "31004954",
+        "migration": [
+            "2021_06_06_052201_create_custom_fields_table.php",
+            "2021_06_06_121703_create_custom_field_responses_table.php"
+        ],
+        "names": [
+            "custom_fields",
+            "custom_field_responses"
+        ],
+        "versions": [
+            "1.0.0"
+        ],
+        "url": [
+            "https://spondonit.com/contact"
+        ],
+        "notes": [
+            "This is Custom Field module for Infix Advocate. Thanks for using."
+        ]
+    }
+}
